@@ -3,8 +3,6 @@
 <!--
 **davidfjellstrom/davidfjellstrom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
 🔭 I’m currently working on:
 Workout Log - A web app for logging workouts and exercises. Create an account, log your sessions and track sets, reps and weight.
 https://workoutlog-frontend-one.vercel.app
