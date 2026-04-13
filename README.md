@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-🚀 I'm currently working on:
+Currently working on:
 **Workout Log** – A web app for logging workouts and exercises.
 [workoutlog-frontend-one.vercel.app](https://workoutlog-frontend-one.vercel.app)
 
