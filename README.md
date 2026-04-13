@@ -1,15 +1,14 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=435&lines=Work+in+progress...;Let's+get+in+touch!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=435&lines=Hey%2C+I'm+David+%F0%9F%91%8B;Lets+connect+%F0%9F%98%8A" alt="Typing SVG" />
 </div>
 
-<h1 align="center">Hey, I'm David 👋</h1>
 <p align="center">AI Development student at <strong>JENSEN Education</strong> 🇸🇪</p>
 <p align="center">Interested in data, probability and decision-making.</p>
 
 ---
 
 ## 🚀 About me
-- Studying AI Development — fascinated by how machines can learn and reason
+- Studying AI Development — fascinated by how AI already are and will continue to change our society in the future
 - Background in sports trading — strong interest in probability and statistics
 - Currently learning backend development with **FastAPI**
 - Open to collaborating on data-driven projects
