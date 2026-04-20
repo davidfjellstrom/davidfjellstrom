@@ -10,7 +10,6 @@
 ## 🚀 About me
 - Studying AI Development — fascinated by how AI are and will continue to change our society
 - Background in sports trading — strong interest in probability and statistics
-- Currently learning backend development with **FastAPI**
 - Open to collaborating on data-driven projects
 
 ---
