@@ -15,6 +15,9 @@
 ---
 
 ## 🔨 Currently building
+
+**https://lineup-and-news-generator.vercel.app/#setup
+
 **[Workout Log](https://workoutlog-frontend-one.vercel.app)**
 A web app for logging workouts and exercises. Create an account, log your sessions and track sets, reps and weight.
 
