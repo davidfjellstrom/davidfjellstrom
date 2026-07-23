@@ -17,6 +17,7 @@
 ## Projects
 
 **[Sports Lineup & News Generator](https://lineup-and-news-generator.vercel.app/#setup)**
+Built for TV football commentators who need answers fast — pull up a team's full lineup, spot the latest headlines, and jot notes on player cards, all before the broadcast goes live.
 
 **[Workout Log](https://workoutlog-frontend-one.vercel.app)**
 A web app for logging workouts and exercises. Create an account, log your sessions and track sets, reps and weight.
