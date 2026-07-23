@@ -7,14 +7,14 @@
 
 ---
 
-## 🚀 ABOUT ME
+## About me
 - Studying AI Development — fascinated by how AI are and will continue to change our society
 - Background in sports trading — strong interest in probability and statistics
 - Open to collaborating on data-driven projects
 
 ---
 
-## MY PROJECTS
+## Projects
 
 **[Sports Lineup & News Generator](https://lineup-and-news-generator.vercel.app/#setup)**
 
@@ -23,7 +23,7 @@ A web app for logging workouts and exercises. Create an account, log your sessio
 
 ---
 
-## 🛠 SKILLS & LANGUANGES
+## 🛠 Skills & languanges
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
@@ -33,6 +33,6 @@ A web app for logging workouts and exercises. Create an account, log your sessio
 
 ---
 
-## 📫 GET IN TOUCH
+## 📫 Get in touch
 [![Email](https://img.shields.io/badge/david@fjellstroem.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:david@fjellstroem.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/david-fjellstr%C3%B6m-8a457015b/)
